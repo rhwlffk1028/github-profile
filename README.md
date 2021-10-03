@@ -1,9 +1,9 @@
 # Welcome to Kevin's Github!
 
-## 💻 I am an aspiring UI/UX Designer 📱
+## 💻 I am an aspiring Software Engineer 📱
 - Former Full-Time Aerospace Engineer 🛩
-- Recent UW Coding Bootcamp Graduate
-- My Goal for 2021 is to work on UI/UX skills based on my computer skills and get a professional job in 2022
+- Recent UW Coding Bootcamp Graduate 💻
+- I am looking for a entry-level Web Developer or Software Engineer position!
 
 ### Connect With Me:
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='Linkedin Icon' width='26px'/>](https://www.linkedin.com/in/kevchoi/)
